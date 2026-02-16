@@ -1,16 +1,21 @@
-## Hi there 👋
+# Statathon 2025 Winning Model: Claims Risk Predictor 🏆
 
-<!--
-**dehiska/dehiska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Model
+Gradient Boosted Trees using XGBoost. Trained on anonymized insurance claims data to predict XYZ.
 
-Here are some ideas to get you started:
+## 📈 Features
+- Streamlit UI for interactive predictions
+- Upload CSV or enter features manually
+- Docker-compatible
+- Deployed on Streamlit Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Try It Out
+🔗 [Live App](https://your-streamlit-url.com)
+
+## 🧰 Tech Stack
+- Python, Streamlit
+- Scikit-learn/XGBoost
+- Pandas, joblib
+- Docker (optional)
+
+## 📁 Repo Structure
